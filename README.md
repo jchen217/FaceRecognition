@@ -13,7 +13,7 @@ Cpu	Intel(R) Xeon(R) CPU E5-2630 @2.20GHz
 core	1
 memory	2G
 Worker:
-Cpu型号	Intel(R) Xeon(R) CPU E5-2630 @2.20GHz
+Cpu	Intel(R) Xeon(R) CPU E5-2630 @2.20GHz
 core	1
 memory	2G
 numbers of worker	3
